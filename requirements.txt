@@ -1,0 +1,6 @@
+streamlit
+langchain
+os
+docx
+tempfile
+pypdf
