@@ -1,5 +1,4 @@
 streamlit
 langchain
 docx
-tempfile
 pypdf
