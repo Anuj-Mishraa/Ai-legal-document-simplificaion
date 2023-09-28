@@ -2,4 +2,4 @@ streamlit
 langchain
 docx
 pypdf
-exceptions
+exception
